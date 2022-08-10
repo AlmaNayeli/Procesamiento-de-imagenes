@@ -1,0 +1,5 @@
+﻿  ConversionRGBaGris.cpp
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 2 Conversión RGB a gris\ConversionRGBaGris\ConversionRGBaGris\ConversionRGBaGris.cpp(65,101): warning C4244: '=': conversión de 'double' a 'uchar'; posible pérdida de datos
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 2 Conversión RGB a gris\ConversionRGBaGris\ConversionRGBaGris\ConversionRGBaGris.cpp(66,105): warning C4244: '=': conversión de 'double' a 'uchar'; posible pérdida de datos
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 2 Conversión RGB a gris\ConversionRGBaGris\ConversionRGBaGris\ConversionRGBaGris.cpp(67,103): warning C4244: '=': conversión de 'double' a 'uchar'; posible pérdida de datos
+  ConversionRGBaGris.vcxproj -> C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 2 Conversión RGB a gris\ConversionRGBaGris\x64\Debug\ConversionRGBaGris.exe
