@@ -1,0 +1,4 @@
+﻿  OpenCV.cpp
+C:\Users\avyr_\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 3 Operaciones de pixel\OperacionesPixel\OperacionesPixel\OpenCV.cpp(53,63): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+C:\Users\avyr_\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 3 Operaciones de pixel\OperacionesPixel\OperacionesPixel\OpenCV.cpp(144,62): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  OperacionesPixel.vcxproj -> C:\Users\avyr_\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 3 Operaciones de pixel\OperacionesPixel\x64\Debug\OperacionesPixel.exe
