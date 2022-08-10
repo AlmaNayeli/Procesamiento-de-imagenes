@@ -1,0 +1,42 @@
+﻿  OpenCV.cpp
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(53,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(55,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(56,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(57,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(59,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(130,40): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(145,40): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\filtrosLineales\OpenCV.cpp(161,40): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+  filtrosLineales.vcxproj -> G:\Mi unidad\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 10 Filtros lineales\filtrosLineales\x64\Debug\filtrosLineales.exe
