@@ -1,0 +1,5 @@
+﻿  OpenCV.cpp
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 5 Histograma\Histograma\Histograma\OpenCV.cpp(50,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 5 Histograma\Histograma\Histograma\OpenCV.cpp(55,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 5 Histograma\Histograma\Histograma\OpenCV.cpp(22,12): warning C4101: 'pfila': variable local sin referencia
+  Histograma.vcxproj -> C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 5 Histograma\Histograma\x64\Debug\Histograma.exe
