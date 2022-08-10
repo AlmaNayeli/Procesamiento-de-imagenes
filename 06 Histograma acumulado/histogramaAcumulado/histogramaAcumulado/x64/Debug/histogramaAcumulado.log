@@ -1,0 +1,3 @@
+﻿  OpenCV.cpp
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 6 Histograma acumulado\histogramaAcumulado\histogramaAcumulado\OpenCV.cpp(18,12): warning C4101:  'pfila': unreferenced local variable
+  histogramaAcumulado.vcxproj -> C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 6 Histograma acumulado\histogramaAcumulado\x64\Debug\histogramaAcumulado.exe
