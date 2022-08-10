@@ -1,0 +1,17 @@
+﻿  OpenCV.cpp
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 13 Detección de bordes\deteccionBordes\deteccionBordes\OpenCV.cpp(64,44): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 13 Detección de bordes\deteccionBordes\deteccionBordes\OpenCV.cpp(108,58): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 13 Detección de bordes\deteccionBordes\deteccionBordes\OpenCV.cpp(109,58): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  deteccionBordes.vcxproj -> C:\Users\Avyr\Google Drive\UP\Materias\Procesamiento de imágenes\Prácticas\Práctica 13 Detección de bordes\deteccionBordes\x64\Debug\deteccionBordes.exe
